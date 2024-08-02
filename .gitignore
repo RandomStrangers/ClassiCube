@@ -34,15 +34,6 @@ bld/
 [Oo]bj/
 [Oo]utput/
 [Pp]rofilingSessions/
-src/audio
-src/texpacks
-src/maps
-src/texturecache
-src/logs
-src/options.txt
-src/ClassiCube*
-src/screenshots
-src/fontscache.txt
 src/.vs/
 #GCC object files
 *.o
